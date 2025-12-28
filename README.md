@@ -1,6 +1,6 @@
 # Balex v1.3
 
-**Async Python library for Bale Messenger bots** 🚀 
+**Python library for Bale Messenger bots** 🚀 
 .
 
 ---
@@ -11,7 +11,7 @@
 pip install balex==1.3.0
 ```
 
-# مثال استفاده (خیلی مهم)
+# مثال استفاده 
 ```bash
 from balex.client import  BotClient
 app = BotClient("Bot_token")
